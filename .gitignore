@@ -12,8 +12,6 @@ env/
 .vscode/
 .idea/
 
-# Generated PDF files
-*.pdf
 
 # Operating system files
 .DS_Store
