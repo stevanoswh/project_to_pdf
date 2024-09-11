@@ -1,0 +1,32 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+*.venv
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Generated PDF files
+*.pdf
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Package files
+*.egg
+*.egg-info/
+dist/
+build/
